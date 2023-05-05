@@ -8,4 +8,4 @@ https://www.mysql.com/downloads/
 
 ## Usage
 
-SQL Language
+SQL
